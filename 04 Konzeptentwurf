@@ -1,0 +1,9 @@
+Wird ein Business Intelligence VUI im Rahmen der vorherigen Aufgabe, browserbasiert mit Artyom.
+Alle Notizen die ich gemacht hab, sind ebenfalls im Axure-File.
+Features: 
+1. Anfrage/Antwort von "Rocket", je detaillierter die Anfrage umso schneller findet der Assissent die Antwort (Dialog Flow)
+2. Sende-Funktion, also immer wenn eine Anfrage beantwortet wurde, kommt eine Anfrage von Rocket, ob man diese Informationen direkt weitersenden möchte. Da muss ich dann eine erfundene Mitarbeiter-Datenbank machen, dass es funktioniert.
+3. Verlauf, dass man die abgefragten Daten auch noch mal visuell nachlesen kann. Da muss ich mich aber noch schlau machen, wie das funktionieren könnte.
+
+Umsetzung Dialog Flow: https://tortu.io/share/3ef5c1
+Grobkonzept Design: https://7px7jg.axshare.com
