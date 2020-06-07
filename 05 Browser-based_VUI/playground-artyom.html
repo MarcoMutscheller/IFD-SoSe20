@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Playgroud Artyom</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="flex">
+        <img src="lol.png" width="215" height="183" alt="…">
+    </div>
+    
+
+    <button id="btn">Starte Konversation</button>
+   <div id="text"><p> <b> Commands:</b><br><br> Nenne mir die neuen Daten <br><br> Nenne mir die (Produktionszahlen, Verschleiß, Krankmeldungen) von Werk (1,2,3,4,allen) <br><br> Nenne mir den (Gewinner/Verlierer) von heute <br><br> Danke Rocket<br> </p></div> 
+
+    <script>
+         var artyom = new Artyom();
+           // Needed user interaction at least once in the website to make
+        // it work automatically without user interaction later... thanks google .i.
+        document.getElementById("btn").addEventListener("click", function(){
+        artyom.say("Conversation Started");
+        }, false);
+    </script>
+<div id="senda">
+    <button id="btn">"Sende Daten an..."</button>
+    <p> <b> Mitarbeiter & Abteilungen</b><br><br> Marco Müller, Thomas Müller, Klaus Müller, Geschäftsleitung, Sekretärin, Verwaltung, Angela Merkel  <br>
+
+      </div>
+
+
+
+</div>
+
+<div id="senda">
+    <button id="btn">"Werk X und Y vergleichen"</button><br>
+      </div>
+
+
+      
+
+</body>
+</html>
