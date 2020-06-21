@@ -6,3 +6,6 @@ Repository von Marco Mutscheller
  02 https://github.com/MarcoMutscheller/IFD-SoSe20/tree/04-Konzeptentwurf/02%20Prototyping
  03 https://21ss2z.axshare.com
  04 https://github.com/MarcoMutscheller/IFD-SoSe20/blob/04-Konzeptentwurf/04%20Konzeptentwurf
+ 05 
+ 06
+ 07
