@@ -7,5 +7,5 @@ Repository von Marco Mutscheller
  03 https://21ss2z.axshare.com
  04 https://github.com/MarcoMutscheller/IFD-SoSe20/blob/04-Konzeptentwurf/04%20Konzeptentwurf
  05 https://github.com/MarcoMutscheller/IFD-SoSe20/tree/master/05%20Browser-based_VUI
- 06
+ 06 https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/06%20Google%20Cardboard.pdf
  07
