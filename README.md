@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>IFD Marco Mutscheller</title>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -17,7 +17,7 @@
 <div class="w3-row w3-container" style="margin:50px 0">
 <div class="w3-half w3-container">
   <div class="w3-topbar w3-border-amber">
-    <img src="/UX Seite/banner 1.png" style="width:100%">
+    <img src="/banner 1.png" style="width:100%">
     <h2>00</h2>
     <p>Einfache Website, mit Inhalten zu der SWOT-Analyse <br> <a href="https://marcomutscheller.wordpress.com/">SWOT-Analyse aufrufen!</a>.</p>
   </div>
@@ -25,7 +25,7 @@
 
 <div class="w3-half w3-container">
   <div class="w3-topbar w3-border-amber">
-    <img src="/UX Seite/banner 2.png" style="width:100%">
+    <img src="/banner 2.png" style="width:100%">
     <h2>01</h2>
     <p>Dokument, welches die Befragung einer Testperson zur optimalen Geldbörse beinhaltet und einen Prototyp darstellt. <br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/Aufabe%2001%201%20(1).pdf">Wallet-Project aufrufen!</a>.</p>
   </div>
