@@ -90,7 +90,7 @@
     <div class="w3-topbar w3-border-orange">
       <img src="/banner ultra.png" style="width:100%">
       <h2>10</h2>
-      <p>In dieser Fortsetzung zur Aufgabe #07, wird der Skript-Würfel detaillreicher, in Bezug auf die Funktionen und sein Aussehen gezeigt.<br> <a href="https://www.dropbox.com/home/08%20Videoprotoyp%20Fortsetzung?preview=Video+Prototyp+Fortsetzung.mp4">Video-Prototyp Skript-Würfel aufrufen!</a>. </p>
+      <p>In dieser Fortsetzung zur Aufgabe #07, wird der Skript-Würfel detaillreicher, in Bezug auf die Funktionen und sein Aussehen gezeigt.<br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/10%20Corona%20Distance%20Warning.pdf">Corona Distance Warning Präsentation</a>. </p>
       </div>   
 </div>
 </body>
