@@ -97,7 +97,7 @@
     <div class="w3-topbar w3-border-orange">
       <img src="/banner ultra (1).png" style="width:100%">
       <h2>11</h2>
-      <p>Vorstellung von 3 Futuristic Interfaces. Windows Mixed Reality, SkinTrack & MindWave.<br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/10%20Corona%20Distance%20Warning.pdf">Corona Distance Warning Präsentation</a>. </p>
+      <p>Vorstellung von 3 Futuristic Interfaces. Windows Mixed Reality, SkinTrack & MindWave.<br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/Future%20Interfaces.pptx">Präsentation</a>. <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/Future%20Interfaces.pdf">Präsentation PDF ohne Videos</a>. </p>
       </div>   
 </div>
 </body>
