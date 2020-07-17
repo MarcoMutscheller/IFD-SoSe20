@@ -62,7 +62,7 @@
     <div class="w3-topbar w3-border-orange">
       <img src="/banner z.png" style="width:100%">
       <h2>05</h2>
-      <p>Technische Umsetzung des Konzepts aus Aufgabe #04.<br> </p><iframe width="560" height="315" src="https://www.youtube.com/embed/aC5I_yxFaJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <p>Technische Umsetzung des Konzepts aus Aufgabe #04.<br> <a href="https://www.youtube.com/watch?v=aC5I_yxFaJ4">Vorstellungsvideo Sprachassisstent</a></p>
       </div>
     </div>
       <div class="w3-half w3-container">
@@ -76,14 +76,14 @@
     <div class="w3-topbar w3-border-orange">
       <img src="/banner b.png" style="width:100%">
       <h2>07</h2>
-      <p>Die aufgenommene 360° Vorlesung, sollte durch innovative Ideen verbessert und optimiert werden.<br> <a href="https://www.dropbox.com/home/07%20Microinteractions/07%20Microinteractions?preview=07+Microinteractions+Storyboard.pdf">Storyboard VL aufrufen!</a>. <a href="https://www.dropbox.com/home/07%20Microinteractions/07%20Microinteractions?preview=07+Video-Prototyp.mov">Video-Prototyp VL aufrufen!</a>. </p>
+      <p>Die aufgenommene 360° Vorlesung, sollte durch innovative Ideen verbessert und optimiert werden.<br> <a href="https://www.dropbox.com/home/07%20Microinteractions/07%20Microinteractions?preview=07+Microinteractions+Storyboard.pdf">Storyboard VL aufrufen!</a>. <a href="https://www.youtube.com/watch?v=3oU9dCjo_Hc">Video-Prototyp VL aufrufen!</a>. </p>
       </div>   
 </div>
 <div class="w3-half w3-container">
     <div class="w3-topbar w3-border-orange">
       <img src="/banner c.png" style="width:100%">
       <h2>08</h2>
-      <p>In dieser Fortsetzung zur Aufgabe #07, wird der Skript-Würfel detaillreicher, in Bezug auf die Funktionen und sein Aussehen gezeigt.<br> <a href="https://www.dropbox.com/home/08%20Videoprotoyp%20Fortsetzung?preview=Video+Prototyp+Fortsetzung.mp4">Video-Prototyp Skript-Würfel aufrufen!</a>. </p>
+      <p>In dieser Fortsetzung zur Aufgabe #07, wird der Skript-Würfel detaillreicher, in Bezug auf die Funktionen und sein Aussehen gezeigt.<br> <a href="https://www.youtube.com/watch?v=IwyL-k697Xg">Video-Prototyp Skript-Würfel aufrufen!</a>. </p>
       </div>   
 </div>
 <div class="w3-half w3-container">
