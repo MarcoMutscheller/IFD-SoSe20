@@ -100,5 +100,12 @@
       <p>Vorstellung von 3 Futuristic Interfaces. Windows Mixed Reality, SkinTrack & MindWave.<br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/Future%20Interfaces.pptx">Präsentation</a>. <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/Future%20Interfaces.pdf">Präsentation PDF ohne Videos</a>. </p>
       </div>   
 </div>
+<div class="w3-half w3-container">
+    <div class="w3-topbar w3-border-orange">
+      <img src="/Banner Last.png" style="width:100%">
+      <h2>12</h2>
+      <p>Die letzte Aufgabe dieses Kurses. Gestartet wird mit einer Customer Journey Map und deren Entstehung. Dann kommt eine Heuristische Evaluation bezogen auf den High-Fid "Rocketview". Als letztes kommt das Prototype Enhancement von Rocketview in Form von einer Video-Dokumentation. <br> <a href="">Präsentation FULL</a>. <a href="https://f5pw2t.axshare.com">Prototype</a>. <a href="https://www.youtube.com/watch?v=Ua1XYN7rRZI">Prototype Enhancement Video</a>. </p>
+      </div>   
+</div>
 </body>
 </html>
