@@ -104,7 +104,7 @@
     <div class="w3-topbar w3-border-orange">
       <img src="/Banner Last.png" style="width:100%">
       <h2>12</h2>
-      <p>Die letzte Aufgabe dieses Kurses. Gestartet wird mit einer Customer Journey Map und deren Entstehung. Dann kommt eine Heuristische Evaluation bezogen auf den High-Fid "Rocketview". Als letztes kommt das Prototype Enhancement von Rocketview in Form von einer Video-Dokumentation. <br> <a href="">Präsentation Customer Journey & Evaluation</a>. <br><a href="https://www.youtube.com/watch?v=Ua1XYN7rRZI">Prototype Enhancement Dokumentation</a>. <br> <a href="https://f5pw2t.axshare.com">Prototype Enhanced (Axure)</a>. </p>
+      <p>Die letzte Aufgabe dieses Kurses. Gestartet wird mit einer Customer Journey Map und deren Entstehung. Dann kommt eine Heuristische Evaluation bezogen auf den High-Fid "Rocketview". Als letztes kommt das Prototype Enhancement von Rocketview in Form von einer Video-Dokumentation. <br> <a href="https://github.com/MarcoMutscheller/IFD-SoSe20/blob/master/ENDAUFGABE%20%2312%20IFD%202020.pdf">Präsentation Customer Journey & Evaluation</a>. <br><a href="https://www.youtube.com/watch?v=Ua1XYN7rRZI">Prototype Enhancement Dokumentation</a>. <br> <a href="https://f5pw2t.axshare.com">Prototype Enhanced (Axure)</a>. </p>
       </div>   
 </div>
 </body>
